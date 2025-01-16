@@ -369,7 +369,7 @@ candidat[.]news,24/02/2023
 notrepays[.]today,24/02/2023
 franceeteu[.]today,24/02/2023
 lavirgule[.]news,24/02/2023
-lesfrontieres[.]media ,24/02/2023
+lesfrontieres[.]media,24/02/2023
 laterrasse[.]online,24/02/2023
 la-sante[.]info,24/02/2023
 lesifflet[.]net,24/02/2023
@@ -390,7 +390,7 @@ il-corrispondente[.]com,21/03/2023
 lefigaro[.]me,05/04/2023
 derrattenfanger[.]net,27/04/2023
 le-continent[.]com,28/04/2023
-alhiwar[.]me ,28/04/2023
+alhiwar[.]me,28/04/2023
 jewishjournal[.]info,18/05/2023
 theliberal[.]net,18/05/2023
 mako[.]news,22/05/2023
@@ -454,11 +454,11 @@ corriere[.]in,05/04/2024
 lastampa[.]in,05/04/2024
 repubblica[.]in,05/04/2024
 polskieradio[.]icu,06/04/2024
-polityka[.]link ,06/04/2024
+polityka[.]link,06/04/2024
 jewishjournal[.]top,16/06/2024
 polskieradio[.]cfd,16/06/2024
 hamodia[.]in,16/06/2024
-forward[.]pw ,16/06/2024
+forward[.]pw,16/06/2024
 jpost[.]foo,21/06/2024
 psychologies[.]top,21/06/2024
 closermag[.]eu,25/06/2024
@@ -467,25 +467,45 @@ slate[.]bz,25/06/2024
 offshore[.]cx,30/06/2024
 vip-news[.]org,01/07/2024
 israeltoday[.]top,04/07/2024
-newyorker[.]bz ,04/07/2024
+newyorker[.]bz,04/07/2024
 thuriesmagazine[.]in,05/07/2024
 wanttoknow[.]in,05/07/2024
 americamagazine[.]icu,05/07/2024
 dzieckowpodrozy[.]in,07/07/2024
 ciekawostkihistoryczne[.]in,07/07/2024
 herder[.]in,07/07/2024
-beautynewsnyc[.]cfd ,07/07/2024
+beautynewsnyc[.]cfd,07/07/2024
 bibelbund[.]cfd,08/07/2024
-beautynewsnyc[.]cfd,08/07/2024
 dzienniknaukowy[.]link,08/07/2024
 lilith[.]day,08/07/2024
 graziamagazine[.]cfd,09/07/2024
 historia[.]fyi,09/07/2024
 cosmopolitan[.]day,09/07/2024
 zeit[.]cx,10/07/2024
+omnam[.]media,11/07/2024
+hauynescherben[.]press,11/07/2024
+la-sante[.]press,11/07/2024
+le-continent[.]press,11/07/2024
+uschina[.]online,11/07/2024
 framce24[.]cfd,12/07/2024
 lefigaro[.]foo,12/07/2024
 mensjournal[.]day,12/07/2024
+polemix[.]cc,13/07/2024
+lebelligerant[.]io,13/07/2024
+brennendefrage[.]cc,13/07/2024
+cropmarketchronicles[.]cc,13/07/2024
+liesofwallstreet[.]io,13/07/2024
+kaputteampel[.]cc,13/07/2024
+laterrasse[.]io,13/07/2024
+lesifflet[.]cc,13/07/2024
+deintelligenz[.]io,13/07/2024
+derleitstern[.]cc,13/07/2024
+derrattenfanger[.]io,13/07/2024
+il-corrispondente[.]io,13/07/2024
+alhiwar[.]cc,13/07/2024
+electionwatch[.]io,13/07/2024
+interventionist[.]cc,13/07/2024
+spicyconspiracy[.]io,13/07/2024
 conspiracywatch[.]in,15/07/2024
 nwf[.]icu,15/07/2024
 mynaszlaku[.]in,15/07/2024
@@ -495,7 +515,7 @@ detoursenframce[.]in,17/07/2024
 framceculture[.]cfd,17/07/2024
 gazeta[.]icu,17/07/2024
 gosc[.]top,17/07/2024
-oah[.]icu ,17/07/2024
+oah[.]icu,17/07/2024
 geo[.]frl,18/07/2024
 plantopedia[.]sbs,18/07/2024
 mystischerrabe[.]icu,18/07/2024
@@ -503,9 +523,15 @@ realsimple[.]sbs,18/07/2024
 eatingwell[.]cfd,18/07/2024
 ew[.]pe,19/07/2024
 medicalhomeportal[.]boo,20/07/2024
-berliner-zeitung[.]in ,21/07/2024
+berliner-zeitung[.]in,21/07/2024
 backpacker[.]foo,22/07/2024
 onmeda[.]click,22/07/2024
+lebelligerant[.]online,23/07/2024
+lesifflet[.]online,23/07/2024
+derbayerischelowe[.]online,23/07/2024
+holylandherald[.]online,23/07/2024
+polemix[.]online,23/07/2024
+kitalararasi[.]org,24/07/2024
 jwa[.]cx,26/07/2024
 leparisien[.]fyi,05/08/2024
 polskieradio[.]top,08/08/2024
@@ -536,3 +562,29 @@ shadowwatch[.]co,12/09/2024
 warfareinsider[.]cc,12/09/2024
 levinaigre[.]so,12/09/2024
 50statesoflie[.]so,12/09/2024
+ostlicherwind[.]com,23/09/2024
+legrandgallus[.]com,26/09/2024
+tageswirtschaft[.]org,06/10/2024
+roserouge[.]org,08/10/2024
+herzheim[.]org,08/10/2024
+kolhaarets[.]com,14/10/2024
+stolzfolk[.]com,17/10/2024
+indicebaguette[.]com,18/10/2024
+usobserve[.]com,18/10/2024
+forward[.]cx,24/10/2024
+parabellumfrance[.]com,24/10/2024
+kriminalradar[.]com,24/10/2024
+weltwahl[.]com,24/10/2024
+renefrance[.]com,28/10/2024
+politiquedelombre[.]com,29/10/2024
+araldoitaliano[.]com,19/11/2024
+jeunefrance[.]net,20/11/2024
+lessentiers[.]org,20/11/2024
+hadashotisrael[.]com,21/11/2024
+rrn[.]com[.]tr,23/11/2024
+militarblatt[.]org,28/11/2024
+spiegel[.]cx,29/11/2024
+militarblatt[.]net,19/12/2024
+politiquedelombre[.]org,20/12/2024
+araldoitaliano[.]net,20/12/2024
+polskikompas[.]net,15/01/2025
